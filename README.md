@@ -1671,3 +1671,48 @@ https://gemini.google.com/share/aadb03c13469
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-27-social-media-post---flash-photography-influencer-candid-in-upscale-restaurant
+
+# Social Media Post - Flash Photography Portrait in Satin Corset Set
+
+https://gemini.google.com/share/26d474c6bf4e
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/31bf720d-f0dd-4916-a4d7-2e5307f4656b" />
+
+```json
+{
+  "subject": {
+    "description": "Young woman with a bronzed, tanned complexion and glowing skin.",
+    "hair": "Long, wavy, dirty blonde to light brown hair, parted in the center, falling loosely over shoulders and back, with loose strands framing the face.",
+    "outfit": "A cream or off-white satin two-piece set. The top is a structured corset with boning, a dipped hemline, and draped off-the-shoulder sleeves. The corset fits tightly, emphasizing a full, heavy bust with significant upward projection and deep cleavage. The bottom is a matching satin maxi skirt with a high slit on the left thigh, revealing the leg.",
+    "physique": "Curvaceous and fit figure. Bust volume is full and heavy, visibly projecting forward and outward, sitting high due to the corset support but maintaining natural soft tissue weight and gravity. Distinct cleavage is visible. Toned legs and defined collarbones.",
+    "skin_details": "High-gloss skin finish, likely from oil or lotion, creating strong specular highlights on the shoulders, chest, and thigh. Natural skin texture visible under flash lighting.",
+    "makeup": "Glamorous makeup with defined eyebrows, highlighter on the nose and cheeks, and glossy mauve-nude lips."
+  },
+  "pose": {
+    "orientation": "Standing, body angled roughly 30 degrees to the left.",
+    "head": "Head turned almost in profile to the left, chin slightly elevated, gaze directed away from the camera toward the left.",
+    "arms": "Right arm extended downwards naturally by the side. Left arm bent slightly, with the left hand gripping the edge of the skirt slit near the upper thigh.",
+    "legs": "Left leg stepping forward slightly through the skirt slit, creating a dynamic line. Weight distributed on the back right leg.",
+    "spine": "Upright posture with a slight arch in the lower back, accentuating the hip curve."
+  },
+  "environment": {
+    "setting": "Outdoor courtyard or patio at twilight.",
+    "elements": "Stucco walls in neutral tones, tall cactus plants (saguaro style) silhouetted against the sky, paved stone ground.",
+    "background_details": "A warm, yellow artificial light emanating from a doorway or window in the background, contrasting with the cool ambient light."
+  },
+  "camera": {
+    "shot_type": "Medium shot, framing from mid-thigh/knees up to the top of the head.",
+    "angle": "Slightly low angle to eye-level, emphasizing the subject's stature.",
+    "focal_length": "Portrait focal length, approximately 50mm to 85mm.",
+    "perspective": "Preserves strong three-dimensional depth between the subject and the background walls."
+  },
+  "lighting": {
+    "type": "Mixed lighting: Flash photography combined with ambient twilight.",
+    "key_light": "Direct, hard on-camera flash or strobe from the front-right, creating sharp shadows behind the subject and strong specular highlights on the satin fabric and oily skin.",
+    "ambient_light": "Cool, deep blue skylight from the evening sky (blue hour).",
+    "accent_light": "Warm tungsten glow from the background structure"
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-28-social-media-post---flash-photography-portrait-in-satin-corset-set
