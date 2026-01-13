@@ -1070,36 +1070,36 @@ https://gemini.google.com/share/65d220b08a6a
 
 ```json
 {
-  "prompt_type": "descriptive_portrait",
-  "subject_details": {
-    "demographics": "Young female, sun-kissed skin, curvy and soft build with ample cleavage.",
-    "facial_features": {
-      "expression": "Laughing with mouth open, a smudge of white flour on her nose and cheek, looking messy but hot.",
-      "eyes": "Bright {argument name="eye color" default="green"} eyes.",
-      "hair": "Messy platinum blonde bun with loose strands falling around the face."
-    },
-    "apparel": {
-      "dress": "A tight, low-cut grey ribbed tank top that clings to her curves. Tiny pajama shorts.",
-      "accessories": "None.",
-      "footwear": "Barefoot."
-    }
-  },
-  "pose_and_action": {
-    "body_position": "Leaning over the kitchen island counter, elbows resting on the surface, emphasizing cleavage.",
-    "hands": "Hands are dusted with flour. One hand holds the phone, the other is near her face.",
-    "camera_angle": "Eye-level mirror selfie captured in a reflective kitchen cabinet or window."
-  },
-  "background_environment": {
-    "location": "Messy kitchen.",
-    "lighting_source": "Bright overhead kitchen lights.",
-    "objects": {
-      "details": "Bowl of dough, scattered flour on the counter, eggshells."
-    }
-  },
-  "technical_specs": {
-    "style": "Playful, domestic, high detail on skin texture and flour dust.",
-    "aspect_ratio": "4:5"
-  }
+  "prompt_type": "descriptive_portrait",
+  "subject_details": {
+    "demographics": "Young female, sun-kissed skin, curvy and soft build with ample cleavage.",
+    "facial_features": {
+      "expression": "Laughing with mouth open, a smudge of white flour on her nose and cheek, looking messy but hot.",
+      "eyes": "Bright {argument name=\"eye color\" default=\"green\"} eyes.",
+      "hair": "Messy platinum blonde bun with loose strands falling around the face."
+    },
+    "apparel": {
+      "dress": "A tight, low-cut grey ribbed tank top that clings to her curves. Tiny pajama shorts.",
+      "accessories": "None.",
+      "footwear": "Barefoot."
+    }
+  },
+  "pose_and_action": {
+    "body_position": "Leaning over the kitchen island counter, elbows resting on the surface, emphasizing cleavage.",
+    "hands": "Hands are dusted with flour. One hand holds the phone, the other is near her face.",
+    "camera_angle": "Eye-level mirror selfie captured in a reflective kitchen cabinet or window."
+  },
+  "background_environment": {
+    "location": "Messy kitchen.",
+    "lighting_source": "Bright overhead kitchen lights.",
+    "objects": {
+      "details": "Bowl of dough, scattered flour on the counter, eggshells."
+    }
+  },
+  "technical_specs": {
+    "style": "Playful, domestic, high detail on skin texture and flour dust.",
+    "aspect_ratio": "4:5"
+  }
 }
 ```
 
