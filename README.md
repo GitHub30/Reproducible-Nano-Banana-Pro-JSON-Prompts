@@ -1474,3 +1474,51 @@ https://gemini.google.com/share/4f8af7d499e0
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-22-social-media-post---soft-glow-night-portrait-with-flash
+
+# Social Media Post - Photorealistic image generation prompt for a woman in a gym, high-angle shot
+
+https://gemini.google.com/share/763d0351f9bc
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7fa2f267-2997-4628-8ad1-30bce1000cd8" />
+
+```json
+{
+  "prompt_type": "descriptive_image_generation",
+  "subject": {
+    "description": "A young woman resembling {argument name="subject description" default="Sydney Sweeney standing in a gym."}",
+    "hair": "Long, straight dirty blonde hair with lighter highlights and visible roots, parted in the middle.",
+    "eyes": "Blue eyes, looking directly up at the camera lens.",
+    "expression": "Neutral, slightly pouty, serious gaze.",
+    "pose": "Standing straight, arms at sides, looking up. The perspective is distorted due to the camera angle (head appears larger, body tapers down)."
+  },
+  "attire": {
+    "outfit_style": "Matching athletic wear.",
+    "top": "White sports bra with a small keyhole cutout at the chest.",
+    "bottom": "White high-waisted tight compression shorts.",
+    "footwear": "Red, white, and burgundy retro-style athletic sneakers.",
+    "accessories": [
+      "Yellow crew socks with text",
+      "Pink matte water bottle held in left hand",
+      "Visible tattoo on the left forearm"
+    ]
+  },
+  "environment": {
+    "location": "Modern commercial gym.",
+    "flooring": "Light wood laminate flooring.",
+    "background_elements": [
+      "Large floor-to-ceiling mirror on the left wall reflecting dumbbell racks and weights",
+      "Row of black cardio machines (ellipticals/treadmills) on the right",
+      "Teal/turquoise accent walls in the deep background",
+      "Dumbbell rack in the center background"
+    ]
+  },
+  "technical_details": {
+    "camera_angle": "Extreme high-angle, overhead shot (bird's-eye view).",
+    "lens_style": "Wide-angle, slightly distorted perspective similar to a phone's 0.5x zoom mode.",
+    "lighting": "Bright, cool-toned artificial gym lighting, even illumination.",
+    "aesthetic": "Candid, social media influencer style, high definition, photorealistic, sharp focus on the face."
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-23-social-media-post---photorealistic-image-generation-prompt-for-a-woman-in-a-gym-high-angle-shot
