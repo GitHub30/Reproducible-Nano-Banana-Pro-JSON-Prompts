@@ -226,6 +226,71 @@ https://gemini.google.com/share/ab6875a571cc
 
 https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#229-canon-ixus-aesthetic-portrait
 
+# Profile / Avatar - Hyper-realistic Selfie Portrait with Strict Identity Control
+
+https://gemini.google.com/share/a0c2cbde7bd1
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/eb5092cb-0623-4b3e-a402-7c2d7f9d8865" />
+
+
+```json
+{
+  "reference_priority": {
+    "character_face": "STRICT_REFER_TO_IMAGE",
+    "outfit_details": "EXACT_REPLICA_FROM_REFERENCE",
+    "consistency_weight": "High"
+  },
+  "subject": {
+    "type": "woman_identity_perfectly_matched_to_reference_image",
+    "framing": "close-up_high-angle_selfie_portrait_indoors",
+    "identity_lock": "maintaining_identical_facial_features_and_bone_structure_from_reference",
+    "features": {
+      "eyes": "sultry_half-lidded_bedroom_eyes_as_per_reference_with_intense_hazel-grey_contact_lenses",
+      "hair": "hair_style_and_color_exactly_matching_reference_image",
+      "expression": "alluring_and_seductive_expression_with_tongue_slightly_stuck_out_playfully_paired_with_a_heavy-lidded_come-hither_gaze"
+    },
+    "skin_texture": {
+      "description": "dewy_and_radiant_skin_with_a_prominent_vibrant_pink_blush_on_cheeks",
+      "details": [
+        "smooth_poreless_finish_with_a_moist_glow",
+        "intense_pinkish_blush_blended_across_cheeks_and_nose_bridge",
+        "soft_warm_skin_undertones_under_dim_lighting"
+      ],
+      "makeup": "glamorous_night-out_makeup_with_glossy_pink_lips_and_defined_sharp_winged_eyeliner"
+    },
+    "pose_structural_lock": {
+      "overall": "casual_selfie_pose_tilted_head_looking_directly_up_at_the_camera",
+      "arms": "right_arm_partially_visible_holding_the_camera_at_a_high_angle",
+      "hands": "left_hand_resting_near_the_neck_adding_to_the_intimate_pose",
+      "shoulders": "slightly_hunched_forward_creating_a_dynamic_and_intimate_perspective"
+    }
+  },
+  "apparel_specification": {
+    "outfit_main_piece": {
+      "description": "exact_clothing_replica_from_reference_image",
+      "material": "matching_material_and_texture_as_shown_in_reference",
+      "silhouette": "same_fit_and_design_as_reference_image",
+      "details": "replicate_all_stitching_and_cut-outs_from_reference"
+    },
+    "accessories": {
+      "necklace": "matching_necklace_from_reference"
+    }
+  },
+  "environment": {
+    "setting": "Atmospheric_Japanese_Izakaya_or_traditional_restaurant_at_night",
+    "lighting": "dim_moody_indoor_lighting_with_warm_amber_hues_and_cool_purple_lens_flare_on_the_face",
+    "background": "blurred_wooden_walls_adorned_with_traditional_Japanese_calligraphy_menu_plaques_and_distant_diners",
+    "atmosphere": "lively_intimate_nightlife_vibe_with_a_sense_of_casual_fun"
+  },
+  "realism_and_rendering": {
+    "style": "candid_social_media_snapshot_photography",
+    "camera": "High-end_smartphone_front_camera_with_slight_wide-angle_distortion_and_shallow_depth_of_field",
+    "image_quality": "hyper-realistic_skin_tex"
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-13-profile--avatar---hyper-realistic-selfie-portrait-with-strict-identity-control
+
+
 # 2000s Mirror Selfie
 
 https://gemini.google.com/share/62fbf4c592d8
@@ -972,69 +1037,6 @@ https://gemini.google.com/share/89ebcfdc3d9b
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-12-profile--avatar---full-body-mirror-selfie-with-tattoos-in-modern-gym
 
-# Profile / Avatar - Hyper-realistic Selfie Portrait with Strict Identity Control
-
-https://gemini.google.com/share/a0c2cbde7bd1
-
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/eb5092cb-0623-4b3e-a402-7c2d7f9d8865" />
-
-
-```json
-{
-  "reference_priority": {
-    "character_face": "STRICT_REFER_TO_IMAGE",
-    "outfit_details": "EXACT_REPLICA_FROM_REFERENCE",
-    "consistency_weight": "High"
-  },
-  "subject": {
-    "type": "woman_identity_perfectly_matched_to_reference_image",
-    "framing": "close-up_high-angle_selfie_portrait_indoors",
-    "identity_lock": "maintaining_identical_facial_features_and_bone_structure_from_reference",
-    "features": {
-      "eyes": "sultry_half-lidded_bedroom_eyes_as_per_reference_with_intense_hazel-grey_contact_lenses",
-      "hair": "hair_style_and_color_exactly_matching_reference_image",
-      "expression": "alluring_and_seductive_expression_with_tongue_slightly_stuck_out_playfully_paired_with_a_heavy-lidded_come-hither_gaze"
-    },
-    "skin_texture": {
-      "description": "dewy_and_radiant_skin_with_a_prominent_vibrant_pink_blush_on_cheeks",
-      "details": [
-        "smooth_poreless_finish_with_a_moist_glow",
-        "intense_pinkish_blush_blended_across_cheeks_and_nose_bridge",
-        "soft_warm_skin_undertones_under_dim_lighting"
-      ],
-      "makeup": "glamorous_night-out_makeup_with_glossy_pink_lips_and_defined_sharp_winged_eyeliner"
-    },
-    "pose_structural_lock": {
-      "overall": "casual_selfie_pose_tilted_head_looking_directly_up_at_the_camera",
-      "arms": "right_arm_partially_visible_holding_the_camera_at_a_high_angle",
-      "hands": "left_hand_resting_near_the_neck_adding_to_the_intimate_pose",
-      "shoulders": "slightly_hunched_forward_creating_a_dynamic_and_intimate_perspective"
-    }
-  },
-  "apparel_specification": {
-    "outfit_main_piece": {
-      "description": "exact_clothing_replica_from_reference_image",
-      "material": "matching_material_and_texture_as_shown_in_reference",
-      "silhouette": "same_fit_and_design_as_reference_image",
-      "details": "replicate_all_stitching_and_cut-outs_from_reference"
-    },
-    "accessories": {
-      "necklace": "matching_necklace_from_reference"
-    }
-  },
-  "environment": {
-    "setting": "Atmospheric_Japanese_Izakaya_or_traditional_restaurant_at_night",
-    "lighting": "dim_moody_indoor_lighting_with_warm_amber_hues_and_cool_purple_lens_flare_on_the_face",
-    "background": "blurred_wooden_walls_adorned_with_traditional_Japanese_calligraphy_menu_plaques_and_distant_diners",
-    "atmosphere": "lively_intimate_nightlife_vibe_with_a_sense_of_casual_fun"
-  },
-  "realism_and_rendering": {
-    "style": "candid_social_media_snapshot_photography",
-    "camera": "High-end_smartphone_front_camera_with_slight_wide-angle_distortion_and_shallow_depth_of_field",
-    "image_quality": "hyper-realistic_skin_tex"
-```
-
-https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-13-profile--avatar---hyper-realistic-selfie-portrait-with-strict-identity-control
 
 # Profile / Avatar - Boho Intimate Lounge Portrait with Peace Sign
 
