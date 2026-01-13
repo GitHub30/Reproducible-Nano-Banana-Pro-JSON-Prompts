@@ -1361,3 +1361,116 @@ https://gemini.google.com/share/bea09a45aa55
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-21-social-media-post---london-outdoor-restaurant-portrait-with-nano-banana-pro
+
+# Social Media Post - Soft-Glow Night Portrait with Flash
+
+https://gemini.google.com/share/4f8af7d499e0
+
+<img width="687" height="1024" alt="image" src="https://github.com/user-attachments/assets/82bfcf7e-147a-4f8e-8deb-22f4fcef2c9c" />
+
+
+```json
+{
+    "composition": {
+        "framing": "vertical portrait orientation",
+        "shot_type": "medium shot from waist to head",
+        "camera_angle": "eye-level with slight rightward angle",
+        "subject_position": "center-right of frame",
+        "pose": "three-quarter profile facing left with head turned toward camera",
+        "negative_space": "large dark sky occupying upper half of frame",
+        "depth_of_field": "shallow to moderate, subject sharply in focus, background softly blurred"
+    },
+    "subject": {
+        "type": "human female-presenting subject",
+        "age_appearance": "young adult",
+        "expression": "soft, calm, slightly inquisitive",
+        "gaze": "direct eye contact with camera",
+        "skin_tone": "fair with warm undertones",
+        "facial_features": {
+            "eyes": "large, dark brown appearance, enhanced contrast",
+            "cheeks": "pronounced rosy blush",
+            "lips": "soft red-pink, matte finish",
+            "nose": "natural shape with subtle highlight"
+        },
+        "hair": {
+            "color": "dark brown",
+            "style": "messy updo with loose face-framing strands",
+            "texture": "smooth with slight flyaways"
+        }
+    },
+    "wardrobe": {
+        "outfit_type": "dress with layered blouse",
+        "dress": {
+            "pattern": "plaid",
+            "colors": [
+                "muted pink",
+                "beige",
+                "gray"
+            ],
+            "fit": "fitted bodice"
+        },
+        "blouse": {
+            "color": "off-white",
+            "fabric": "lightweight, semi-sheer",
+            "sleeves": "short puff sleeves with soft ruffled hems"
+        },
+        "style_influence": "soft vintage / cottagecore aesthetic"
+    },
+    "lighting": {
+        "primary_light": "on-camera flash",
+        "light_quality": "hard frontal light",
+        "direction": "front-facing, slightly above eye level",
+        "effect_on_subject": "brightly illuminated face and torso with crisp edges",
+        "background_lighting": "ambient city lights and house lights",
+        "shadow_behavior": "minimal facial shadows, slight falloff behind subject"
+    },
+    "color_palette": {
+        "dominant_colors": [
+            "black",
+            "soft pink",
+            "cream",
+            "warm beige"
+        ],
+        "accent_colors": [
+            "warm yellow lights",
+            "cool blue window light"
+        ],
+        "overall_tone": "warm subject against cool-dark background"
+    },
+    "background": {
+        "environment": "outdoor residential area at night",
+        "elements": [
+            "balcony railing in foreground",
+            "houses and buildings",
+            "windows with warm interior lighting",
+            "dark night sky"
+        ],
+        "setting_mood": "quiet, intimate nighttime atmosphere"
+    },
+    "artistic_style": {
+        "aesthetic": "soft-glow night portrait",
+        "mood": "romantic, gentle, slightly dreamy",
+        "influences": [
+            "social media portrait photography",
+            "modern cottagecore"
+        ],
+        "retouching_style": "beauty-focused with emphasis on skin smoothness and blush"
+    },
+    "technical_details": {
+        "camera_type_assumption": "smartphone camera",
+        "lens_equivalent": "wide to standard (24–35mm equivalent)",
+        "flash_usage": "enabled",
+        "iso_appearance": "low to moderate with minimal noise",
+        "sharpness": "high on subject, reduced in background",
+        "contrast": "moderate with lifted highlights"
+    },
+    "post_processing": {
+        "skin_smoothing": "moderate",
+        "color_grading": "warm highlights, neutral shadows",
+        "blush_enhancement": "strong",
+        "eye_enhancement": "subtle brightness and contrast increase"
+    }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-22-social-media-post---soft-glow-night-portrait-with-flash
