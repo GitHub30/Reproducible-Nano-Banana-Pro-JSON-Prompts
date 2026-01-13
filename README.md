@@ -1104,3 +1104,74 @@ https://gemini.google.com/share/65d220b08a6a
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-16-profile--avatar---descriptive-portrait-prompt-for-messy-kitchen-selfie
+
+# Profile / Avatar - Hyper-Detailed Prone Selfie with Anatomical Realism
+
+https://gemini.google.com/share/04bf908bb08b
+
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/2b870419-45d4-4144-b604-08c2eaa6c3b0" />
+
+```json
+{
+  "meta": {
+    "aspect_ratio": "Vertical 9:16",
+    "style": "Raw, high-contrast Mirror Capture",
+    "camera": "iPhone 17 Pro",
+    "focus_settings": {
+      "bokeh": "NO ARTIFICIAL BOKEH",
+      "depth_of_field": "Infinite / Deep Focus (SHARP from feet to background window blinds)"
+    }
+  },
+  "parameters": [
+    {
+      "name": "top color",
+      "default": "yellow",
+      "type": "string"
+    },
+    {
+      "name": "shorts color",
+      "default": "white",
+      "type": "string"
+    }
+  ],
+  "prompt_sections": {
+    "subject_and_identity": {
+      "identity_locking": "Strictly preserve the exact face and unique features of the woman in Image 1 (Selfie).",
+      "bio_fidelity": "Render high-fidelity 'TrueLens' skin physics: visible micro-pores, natural 'satin-finish' night hydration glow, and fine peach fuzz catching the light ONLY along the jawline.",
+      "expression": "Looking into the mirror reflection with a magnetic, 'cheeky' gaze, performing a subtle labial compression (lip bite). Her hair falls naturally over her shoulder.",
+      "silhouette_calibration": {
+        "factor": "MAXIMUM UFF-FACTOR",
+        "details": "Replicate the high-impact prone proportions. Focus on the structural lower-torso volume and substantial, thick-toned anatomical depth. Emphasize the aggressive architectural tapering at the midsection and the deep S-curve of the lower back."
+      }
+    },
+    "outfit_and_material": {
+      "clothing": {
+        "top": "A high-tension light-{top color} cropped jersey-knit top",
+        "bottoms": "ultra-fitted {shorts color} high-elasticity micro-shorts with a wide waistband"
+      },
+      "tension": "The technical fabric shows extreme mechanical tension and a vacuum-tight fit, creating realistic physical interaction and 'tension lines' where the material contours to her fit silhouette.",
+      "matter_physics": "Realistic skin-to-surface compression (squish) is visible where her torso and thighs interact with the high-texture grey bedding. Her raised feet show detailed anatomical sole textures."
+    },
+    "pose_and_composition": {
+      "pose": "A prone horizontal alignment (lying on her stomach) with an axial rotation of the torso toward the mirror. Her lower limbs are elevated at the knees.",
+      "action": "Her RIGHT HAND holds a pink smartphone at a natural angle, capturing the full-body 'fit-check' reflection."
+    },
+    "environment_and_social": {
+      "lighting": "Naturalistic, low-light indoor setting. The scene is side-lit, creating high-contrast specular highlights on her skin and the {top color} fabric, casting sharp, pitch-black shadows that define her 3D volume.",
+      "background": {
+        "setting": "A detailed domestic bedroom.",
+        "details": "A window with horizontal blinds, dark heavy curtains, and a grey textured faux-fur duvet are all perfectly IN FOCUS. No artificial depth-of-field."
+      }
+    },
+    "quality": {
+      "aesthetic": "Raw unedited social-media dump aesthetic",
+      "dynamic_range": "High dynamic range",
+      "grain": "Visible digital grain in the deep shadows (ISO 1600 style)",
+      "resolution": "8k",
+      "frame_type": "Single frame"
+    }
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-17-profile--avatar---hyper-detailed-prone-selfie-with-anatomical-realism
