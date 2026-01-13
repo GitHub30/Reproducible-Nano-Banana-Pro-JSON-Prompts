@@ -164,6 +164,67 @@ https://gemini.google.com/share/992c0b8eca68
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-10-profile--avatar---playful-beach-selfie-with-layered-jewelry
 
+# Canon IXUS Aesthetic Portrait
+
+https://gemini.google.com/share/ab6875a571cc
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0bb69b69-e3ed-4ef0-8870-8a4ce4795505" />
+
+```json
+{
+  "image_parameters": {
+    "style": "Canon IXUS aesthetic",
+    "type": "Point-and-shoot photography",
+    "quality": "Hyper-realistic",
+    "tone": "Sharp, direct",
+    "lighting_and_atmosphere": "Realistic, flash-style/direct lighting"
+  },
+  "subject": {
+    "constraints": {
+      "facial_identity": "Match reference image exactly 100%",
+      "face_edits": "None allowed"
+    },
+    "hair": {
+      "style": "Long, natural, lightly messy layered look",
+      "movement": "Blowing gently in the wind",
+      "details": "Strands slightly covering part of face"
+    },
+    "makeup": {
+      "cheeks_and_nose": "Soft pink blush with blurred effect",
+      "lips": "Subtle pink-orange tinted outline"
+    },
+    "expression": [
+      "Cute",
+      "Naive",
+      "Cheerful",
+      "Slightly sexy/undone charm"
+    ],
+    "pose": {
+      "body_position": "Half-sitting, half-standing",
+      "action": "Flicking hair"
+    },
+    "clothing": {
+      "top": "Black strapless top",
+      "bottom": "Low-waisted jeans with a floating waistline",
+      "neck": "Thin black fabric choker/wrap"
+    },
+    "accessories": [
+      "Small pendant necklace",
+      "Gold watch"
+    ]
+  },
+  "environment": {
+    "setting": "Modern pub",
+    "foreground_props": [
+      "Round table",
+      "Bottle of liquor",
+      "Glass of liquor"
+    ]
+  }
+}
+```
+
+https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#229-canon-ixus-aesthetic-portrait
 
 # 2000s Mirror Selfie
 
@@ -661,67 +722,7 @@ https://gemini.google.com/share/7482e588c175
 
 https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#228-fisheye-matcha-girl
 
-# Canon IXUS Aesthetic Portrait
 
-https://gemini.google.com/share/ab6875a571cc
-
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0bb69b69-e3ed-4ef0-8870-8a4ce4795505" />
-
-```json
-{
-  "image_parameters": {
-    "style": "Canon IXUS aesthetic",
-    "type": "Point-and-shoot photography",
-    "quality": "Hyper-realistic",
-    "tone": "Sharp, direct",
-    "lighting_and_atmosphere": "Realistic, flash-style/direct lighting"
-  },
-  "subject": {
-    "constraints": {
-      "facial_identity": "Match reference image exactly 100%",
-      "face_edits": "None allowed"
-    },
-    "hair": {
-      "style": "Long, natural, lightly messy layered look",
-      "movement": "Blowing gently in the wind",
-      "details": "Strands slightly covering part of face"
-    },
-    "makeup": {
-      "cheeks_and_nose": "Soft pink blush with blurred effect",
-      "lips": "Subtle pink-orange tinted outline"
-    },
-    "expression": [
-      "Cute",
-      "Naive",
-      "Cheerful",
-      "Slightly sexy/undone charm"
-    ],
-    "pose": {
-      "body_position": "Half-sitting, half-standing",
-      "action": "Flicking hair"
-    },
-    "clothing": {
-      "top": "Black strapless top",
-      "bottom": "Low-waisted jeans with a floating waistline",
-      "neck": "Thin black fabric choker/wrap"
-    },
-    "accessories": [
-      "Small pendant necklace",
-      "Gold watch"
-    ]
-  },
-  "environment": {
-    "setting": "Modern pub",
-    "foreground_props": [
-      "Round table",
-      "Bottle of liquor",
-      "Glass of liquor"
-    ]
-  }
-}
-```
-
-https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#229-canon-ixus-aesthetic-portrait
 
 # Profile / Avatar - Intimate Low-Light Bedroom Selfie Portrait
 
