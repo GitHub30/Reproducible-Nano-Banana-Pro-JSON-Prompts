@@ -1032,3 +1032,32 @@ https://gemini.google.com/share/a0c2cbde7bd1
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-13-profile--avatar---hyper-realistic-selfie-portrait-with-strict-identity-control
+
+# Profile / Avatar - Boho Intimate Lounge Portrait with Peace Sign
+
+https://gemini.google.com/share/b3b20b68ca3c
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/73109605-78d9-473f-bc8c-1ccd727219c0" />
+
+```json
+{
+  "prompt": "Relaxed tropical indoor portrait of a young woman lounging on large woven rattan armchair in boho-style room, playful and confident vibe, fair-to-light tan skin with natural glow and subtle texture, long straight dark brown-black hair tied in high messy bun with loose strands framing face, large sparkling dark brown eyes with soft winged liner looking directly at camera, full glossy nude-pink lips in subtle smile, wearing sheer white textured strapless mini dress with intricate lace details and ruffled hem, high-cut design revealing thighs, black lace garter belt with small blue-white patterned pouch visible at waist, barefoot with natural feet and toes visible propped up on chair arm, making double peace sign (V fingers) gesture with both hands raised near face, sitting with legs extended forward and slightly apart, cozy bohemian bedroom setting with bamboo walls, dark wooden floor, brown and orange throw pillows, hanging plants and soft warm ambient lighting from side lamps creating golden glow and gentle shadows, shallow depth of field, strong cinematic bokeh on background decor, photorealistic boho intimate fashion photography, high detail lace transparency hair strands skin pores foot texture and fabric sheen, ultra detailed, 8k resolution",
+  "negative_prompt": "cartoon, anime, illustration, painting, deformed, blurry, lowres, plastic skin, doll-like, heavy makeup overload, thick eyeliner, false lashes, filters, beauty filter, airbrushed skin, extra limbs, distorted proportions, asymmetrical face, harsh flash, cold lighting, day time overexposure, formal clothing, shoes, standing pose, crowded room, text watermark, logo, ugly, bad anatomy, eyes closed, serious expression, no peace sign",
+  "reference_image": {
+    "enabled": true,
+    "strength": 0.90,
+    "description": "Extremely strong reference for exact pose and composition: young woman lounging in wicker rattan chair, legs extended forward barefoot, high messy bun with long dark hair, white sheer lace strapless mini dress with garter belt and pouch, double peace sign with both hands near face, direct eye contact playful smile, warm boho room with bamboo walls and pillows, soft golden ambient light"
+  },
+  "style": "photorealistic boho intimate lounge portrait, playful relaxed aesthetic, warm tropical indoor lighting",
+  "aspect_ratio": "3:4",
+  "lighting": "soft warm golden lamp light from side, gentle highlights on hair skin lace and rattan texture, subtle cozy shadows on chair and floor, ambient glow",
+  "camera": "Sony A7R IV or Canon R5, 50mm f/1.8 prime lens, natural indoor warm light, slight vignette for intimacy",
+  "additional_details": [
+    "hair: dark brown-black, long straight, tied in high messy bun with loose flyaways framing face",
+    "outfit: sheer white textured strapless mini dress (lace details, ruffled hem, high-cut), black lace garter belt with small blue-white patterned pouch attached",
+    "pose: sitting lounged in chair, legs "
+  ]
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-14-profile--avatar---boho-intimate-lounge-portrait-with-peace-sign
