@@ -1745,3 +1745,78 @@ https://gemini.google.com/share/7cdf80e8a21a
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-29-social-media-post---photorealistic-gym-selfie-prompt
+
+# Social Media Post - Cinematic Flash Photography Night Editorial
+
+https://gemini.google.com/share/16e3e08ada4c
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d77c35d8-3922-4303-9212-5fda878bc813" />
+
+
+```json
+{
+  "prompt_type": "Cinematic Flash Photography Portrait (Reference Character)",
+  "style": [
+    "hyper-realistic",
+    "flash photography aesthetic",
+    "vogue night editorial",
+    "high contrast",
+    "sharp details"
+  ],
+  "subject": {
+    "identity": "Use the same woman from the provided reference image",
+    "consistency": [
+      "maintain identical facial structure",
+      "preserve skin tone and complexion",
+      "match eye shape, nose, lips, and facial proportions",
+      "retain hair color, texture, and length from reference"
+    ],
+    "age": "young adult (as inferred from reference image)",
+    "pose": "seated relaxed on a dark leather sofa, leaning back slightly, legs crossed elegantly, direct confident eye contact",
+    "expression": "magnetic, unbothered, slightly parted lips, 'cool girl' aesthetic",
+    "hair_accessories": "hair styled in messy chic waves, slightly windswept look"
+  },
+  "outfit": {
+    "top": "{argument name="top material" default="black satin"} structured bodice with deep v-neckline and lace trim detailing",
+    "bottom": "matching black micro-skirt with small side slit",
+    "accessories": [
+      "black translucent tights (20 denier)",
+      "layered silver chokers",
+      "oversized blazer draped loosely off the shoulders (exposing the bodice)"
+    ],
+    "fit_guidance": "clothing should be form-fitting and emphasize the silhouette"
+  },
+  "environment": {
+    "location": "backstage VIP room or dark luxury lounge",
+    "background": "dark textured walls, velvet curtains, subtle reflection of neon sign ({argument name="neon color" default="red or pink"}) in background blur",
+    "lighting": "direct camera flash style (paparaazi style) highlighting the subject against a dark background, creating a high-contrast moody look"
+  },
+  "camera": {
+    "shot_type": "medium-full shot",
+    "angle": "eye-level",
+    "lens": "35mm wide aperture",
+    "focus": "sharp focus on subject, slight vignette at edges"
+  },
+  "color_palette": [
+    "jet black",
+    "silver",
+    "fleshtone",
+    "deep crimson (background accent)"
+  ],
+  "mood": "edgy, confident, rebellious, glamorous",
+  "quality_tags": [
+    "photorealistic",
+    "detailed fabric texture",
+    "nightlife photography",
+    "fashion statement",
+    "identity-accurate reference rendering"
+  ],
+  "reference_image_instructions": [
+    "do not alter facial identity",
+    "focus on realism",
+    "maintain character likeness strictly"
+  ]
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-31-social-media-post---cinematic-flash-photography-night-editorial
