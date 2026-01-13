@@ -1061,3 +1061,46 @@ https://gemini.google.com/share/b3b20b68ca3c
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-14-profile--avatar---boho-intimate-lounge-portrait-with-peace-sign
+
+# Profile / Avatar - Descriptive Portrait Prompt for Messy Kitchen Selfie
+
+https://gemini.google.com/share/65d220b08a6a
+
+<img width="825" height="1024" alt="image" src="https://github.com/user-attachments/assets/82a07d28-7c25-4ded-b10a-4161967b3fad" />
+
+```json
+{
+  "prompt_type": "descriptive_portrait",
+  "subject_details": {
+    "demographics": "Young female, sun-kissed skin, curvy and soft build with ample cleavage.",
+    "facial_features": {
+      "expression": "Laughing with mouth open, a smudge of white flour on her nose and cheek, looking messy but hot.",
+      "eyes": "Bright {argument name="eye color" default="green"} eyes.",
+      "hair": "Messy platinum blonde bun with loose strands falling around the face."
+    },
+    "apparel": {
+      "dress": "A tight, low-cut grey ribbed tank top that clings to her curves. Tiny pajama shorts.",
+      "accessories": "None.",
+      "footwear": "Barefoot."
+    }
+  },
+  "pose_and_action": {
+    "body_position": "Leaning over the kitchen island counter, elbows resting on the surface, emphasizing cleavage.",
+    "hands": "Hands are dusted with flour. One hand holds the phone, the other is near her face.",
+    "camera_angle": "Eye-level mirror selfie captured in a reflective kitchen cabinet or window."
+  },
+  "background_environment": {
+    "location": "Messy kitchen.",
+    "lighting_source": "Bright overhead kitchen lights.",
+    "objects": {
+      "details": "Bowl of dough, scattered flour on the counter, eggshells."
+    }
+  },
+  "technical_specs": {
+    "style": "Playful, domestic, high detail on skin texture and flour dust.",
+    "aspect_ratio": "4:5"
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-16-profile--avatar---descriptive-portrait-prompt-for-messy-kitchen-selfie
