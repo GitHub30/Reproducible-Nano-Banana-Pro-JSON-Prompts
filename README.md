@@ -813,7 +813,7 @@ https://gemini.google.com/share/533f1d27165e
         "expression": "soft smiles, calm eyes, natural candid emotion"
       },
       "details": {
-        "face_paint": "simple {argument name="heart color" default="red"} heart painted by hand, slightly imperfect, matte texture",
+        "face_paint": "simple {argument name=\"heart color\" default=\"red\"} heart painted by hand, slightly imperfect, matte texture",
         "skin": "natural pores, light blush on cheeks",
         "lips": "soft coral / peach tone, natural finish",
         "eyes": "natural lashes, minimal makeup"
@@ -913,7 +913,7 @@ https://gemini.google.com/share/89ebcfdc3d9b
   },
   "subject": {
     "identity": {
-      "name": "{argument name="subject name" default="Sydney Sweeney"}",
+      "name": "{argument name=\"subject name\" default=\"Sydney Sweeney\"}",
       "reference_fidelity": 1.0
     },
     "physical_attributes": {
