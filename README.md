@@ -676,3 +676,57 @@ https://gemini.google.com/share/da39f9757436
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-4-profile--avatar---intimate-low-light-bedroom-selfie-portrait
+
+# Profile / Avatar - Candid Night Car Selfie with Flash
+
+https://gemini.google.com/share/36c6cb4d0634
+
+<img width="687" height="1024" alt="image" src="https://github.com/user-attachments/assets/04f28296-15ad-4e60-bfb6-02407360a3dc" />
+
+```json
+{
+  "scene": {
+    "time": "Nighttime",
+    "location": "Inside a car (driver’s seat, left side)",
+    "lighting": {
+      "interior": "Instrument cluster and center console glow with crisp cool white/blue backlighting",
+      "exterior": "Dim roadway with streetlight bokeh"
+    },
+    "atmosphere": "Urban night, slight sense of motion"
+  },
+  "subject": {
+    "demographics": "Young adult woman",
+    "position": "Sitting on the left side, turning head right to look back",
+    "hair": {
+      "style": "Long, straight, slightly center part",
+      "color": "Light blonde with lighter highlighted streaks",
+      "texture": "Smooth and glossy, catching reflections from the flash"
+    },
+    "skin": "Warm fair skin tone",
+    "outfit": {
+      "top": "Black spaghetti-strap bra-style top",
+      "bottom": "Low-rise jeans",
+      "vibe": "Authentic 'night out / getting into the car after a party' social-media feel"
+    },
+    "details": {
+      "nails": "Nude/pale pink manicure",
+      "accessories": "Delicate chain bracelet on the wrist"
+    }
+  },
+  "pose_and_emotion": {
+    "expression": "Playful, subtly flirty 'caught candid' vibe",
+    "gaze": "Direct eye contact",
+    "gesture": "Holding left hand horizontally across the lower half of face, revealing only eyes and brow area"
+  },
+  "photography_settings": {
+    "style": "Clear smartphone on-camera flash",
+    "framing": "Vertical close medium framing",
+    "angle": "Shot from the passenger side/back-seat angle",
+    "composition": "Captures upper body, steering wheel, door trim, and dashboard",
+    "lighting_effect": "Direct flash creates high contrast and soft shadows that sculpt the body",
+    "aesthetic": "Instagram/social-media candid"
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-5-profile--avatar---candid-night-car-selfie-with-flash
