@@ -1941,3 +1941,92 @@ https://gemini.google.com/share/5a050518f828
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-52-youtube-thumbnail---photorealistic-female-pilot-selfie-prompt
+
+# YouTube Thumbnail - Hyper-Realistic Cinematic Night Portrait in Rain
+
+https://gemini.google.com/share/c4d88e6c4a70
+
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/186ebb03-c863-4017-adec-dc7dca961c67" />
+
+
+```json
+{
+  "type": "image_generation_prompt",
+  "aspect_ratio": "9:16",
+  "style": "hyper-realistic cinematic night portrait",
+  "identity_preservation": {
+    "use_reference_image": true,
+    "strict_identity_lock": true,
+    "alter_face": false,
+    "alter_hair": false,
+    "notes": "Preserve 100% of the subject’s face, facial structure, proportions, skin texture, and hairstyle exactly as in the reference image."
+  },
+  "subject": {
+    "gender": "female",
+    "pose": {
+      "position": "standing outdoors in the rain at night",
+      "head": "tilted slightly upward",
+      "gaze": "looking upward, feeling the rain"
+    },
+    "expression": "intense, emotional, contemplative",
+    "appearance": {
+      "hair": {
+        "state": "wet and tousled",
+        "notes": "Hair must remain identical to the reference image, only affected naturally by rain"
+      },
+      "skin": {
+        "details": [
+          "raindrops glistening on the face",
+          "natural skin texture",
+          "no smoothing or beautification"
+        ]
+      }
+    },
+    "wardrobe": {
+      "top": "soaked {argument name="shirt color" default="white"} button-up shirt clinging naturally to the body",
+      "accessories": [
+        "luxury wristwatch on the wrist"
+      ]
+    }
+  },
+  "environment": {
+    "setting": "outdoor urban environment at night",
+    "weather": "heavy rain",
+    "atmosphere": "moody, dramatic, cinematic"
+  },
+  "lighting": {
+    "style": "dramatic low-key lighting",
+    "features": [
+      "deep shadows",
+      "strong highlights on water droplets",
+      "cinematic contrast"
+    ]
+  },
+  "visual_effects": {
+    "rain": "water droplets frozen in motion",
+    "motion": "subtle rain streaks visible",
+    "depth": "cinematic depth of field"
+  },
+  "camera": {
+    "shot_type": "portrait",
+    "angle": "eye-level to slightly low",
+    "focus": "sharp focus on face and upper body",
+    "look": "professional photography style"
+  },
+  "quality": {
+    "resolution": "high resolution",
+    "realism": "ultra-photorealistic",
+    "detail_level": "extreme detail in skin, fabric, water, and lighting"
+  },
+  "constraints": [
+    "Do not alter face or hair",
+    "No artificial filters",
+    "No cartoon or stylized effects",
+    "No distorted anatomy",
+    "No text or watermarks"
+  ],
+  "output_goal": "Create a hyper-realistic cinematic night portrait of a woman standing in the rain, preserving her exact facial identity and hairstyle, with dramatic lighting, visible rain droplets, and an intense emotional atmosphere."
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-56-youtube-thumbnail---hyper-realistic-cinematic-night-portrait-in-rain
