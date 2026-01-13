@@ -1716,3 +1716,32 @@ https://gemini.google.com/share/26d474c6bf4e
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-28-social-media-post---flash-photography-portrait-in-satin-corset-set
+
+# Social Media Post - Photorealistic Gym Selfie Prompt
+
+https://gemini.google.com/share/7cdf80e8a21a
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/2c0bec69-9c3e-42e0-855b-7f1fd5137fa8" />
+
+
+```json
+{
+  "prompt_type": "photorealistic gym selfie",
+  "main_composition": "rear three-quarter back view of a single young woman in a modern gym, dynamically posing with one leg raised high backward (flexibility stretch or playful kick), looking over her right shoulder with a subtle confident smile, one hand holding black fingerless weightlifting gloves, relaxed athletic stance emphasizing toned physique, dim overhead gym lighting with equipment visible in background",
+  "subject": {
+    "description": "beautiful young woman in her early 20s, attractive feminine features with light natural makeup (subtle blush, defined eyes, glossy lips), long straight light brown hair styled in a high ponytail with loose strands framing face, fair to tanned smooth skin with athletic toned hourglass figure and strong legs/glutes",
+    "clothing": "fitted black long-sleeve crop top with small white heart logo on left sleeve and thumb holes, high-waisted short gray seamless athletic shorts/leggings with white brand text 'DFYNE' (or similar activewear logo) centered on back waistband, white athletic sneakers with black accents, black fingerless gym gloves held in hand",
+    "details": "playful confident expression with slight smile and direct eye contact over shoulder, red manicured nails visible on glove hand, hair slightly tousled with natural movement, dynamic stretch pose with excellent flexibility and balance"
+  },
+  "environment": {
+    "foreground": "light rubberized or padded gym floor with subtle texture",
+    "midground": "woman centered in open gym space",
+    "background": "modern gym interior with dim overhead fluorescent lighting, red plyometric soft boxes stacked on left with white branding, black heavy punching bag on right, equipment racks and weights visible, clean professional fitness studio atmosphere"
+  },
+  "lighting_and_atmosphere": "dim indoor gym lighting with cool overhead fluorescents creating soft shadows and subtle highlights on skin, hair, and glossy fabric, moody athletic vibe with high contrast on gray shorts and black top, energetic fitness motivation feel, photorealistic detail",
+  "technical_quality": "highly detailed, sharp focus on subject with realistic fabric textures (seamless shorts shine, cotton crop top matte, glove leather), hair movement, skin glow, and sneaker details, 8k resolution, professional candid gym photography style with dynamic composition and natural motion in pose",
+  "negative_prompt_suggestions": "blurry, deformed, extra limbs, frontal view, harsh overhead shadows, overexposed floor, underexposed face, low quality, cartoon, anime, text watermark, extra people, cluttered equipment in focus, static pose"
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-29-social-media-post---photorealistic-gym-selfie-prompt
