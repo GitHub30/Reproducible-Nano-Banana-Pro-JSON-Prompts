@@ -1241,3 +1241,84 @@ https://gemini.google.com/share/12721245ec9f
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-18-profile--avatar---ultra-photorealistic-beach-selfie-prompt-golden-hour
+
+# Profile / Avatar - Ana de Armas Mirror Selfie Prompt for Nano Banana Pro
+
+https://gemini.google.com/share/b153e05608ae
+
+<img width="687" height="1024" alt="image" src="https://github.com/user-attachments/assets/e002b5f5-aa80-4b5a-b643-b0b60b1f09d2" />
+
+```json
+{
+  "image_generation_request": {
+    "framing_and_composition": {
+      "shot_type": "Medium shot",
+      "orientation": "Vertical",
+      "composition": "Mirror selfie, subject centered",
+      "camera_in_shot": "Smartphone visible in reflection, held at chest height",
+      "perspective": "Candid night out"
+    },
+    "subject_identity": {
+      "reference_name": "{argument name="subject name" default="Ana de Armas (young)"}",
+      "skin_tone": "Pale, porcelain",
+      "facial_structure": {
+        "jawline": "Sharp",
+        "cheekbones": "High",
+        "eyes": "Large, almond-shaped, green-hazel",
+        "nose": "Refined, slim"
+      },
+      "identity_fidelity": "100% face preservation, zero alterations to unique features"
+    },
+    "expression_and_pose": {
+      "expression": "Sultry, neutral, composed",
+      "gaze": "Directly into the reflected camera lens",
+      "head_pose": "Slightly tilted",
+      "body_language": "Confident, heavy coat draped loosely to reveal shoulder",
+      "hand_detail": "Right hand holding phone, index finger extended, red manicure"
+    },
+    "styling_details": {
+      "makeup": {
+        "eyes": "Sharp black winged eyeliner, smoked-out lower lash line, heavy volume mascara",
+        "eyebrows": "Well-defined, natural dark",
+        "lips": "Soft matte rose-toned, slightly overlined",
+        "contour": "Subtle, cheekbone-focused"
+      },
+      "hair": {
+        "color": "Dark espresso",
+        "style": "Long, thick, wavy, voluminous",
+        "texture": "Messy-chic, healthy sheen",
+        "parting": "Slightly off-center"
+      },
+      "outfit": {
+        "base_layer": "Chocolate-brown metallic one-shoulder bodycon dress with ruching",
+        "outerwear": "Heavy, brown faux-fur mink-style coat, worn off-shoulder"
+      },
+      "accessories": {
+        "jewelry": "Large, chunky vintage-style gold earrings",
+        "nails": "Long, pointed acrylics, glossy cherry red",
+        "phone_case": "Modern smartphone in a dark case"
+      }
+    },
+    "physical_attributes": {
+      "silhouette": "Slim, toned hourglass",
+      "details": "Defined collarbones, slender shoulder, narrow waist, feminine curves"
+    },
+    "environment_and_lighting": {
+      "setting": "Dark minimalist luxury interior (high-end club/lounge)",
+      "background_elements": "Horizontal black tiled walls or polished dark wood panels",
+      "lighting_type": "Hard mirror flash",
+      "lighting_effects": "Central starburst flare, high-contrast highlights, deep shadows",
+      "film_texture": "Subtle film grain, low-light mobile photography look"
+    },
+    "technical_specifications": {
+      "aesthetic": "Shot on iPhone, ultra-realistic",
+      "resolution": "8k, high-resolution textures, raw photo quality",
+      "artifacts": "Slight motion blur, natural digital noise",
+      "focus": "Sharp focus on facial features despite flash flare"
+    },
+    "mood_and_style": {
+      "theme": "It-girl nightlife, edgy, glamorous, expensive",
+ "}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-19-profile--avatar---ana-de-armas-mirror-selfie-prompt-for-nano-banana-pro
